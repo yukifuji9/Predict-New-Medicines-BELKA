@@ -8,14 +8,14 @@ Kaggle Competition: Public LB Top 8%, Private LB Top 12%
 The competition evaluated not only predictive performance but also a model's ability to generalize beyond the distribution represented in the training data. The hidden evaluation introduced entirely new molecular building blocks, making this a study of robustness under distribution shift rather than benchmark optimization.
 
 
-##Initial Hypothesis
+## Initial Hypothesis
 
 Transformers should produce better predictions.
 SMILES tokenization is all we need.
 Maybe Transformers and CNN hybrid models.
 Rigorous cross-validation for robustness.
 
-##What I Explored
+## What I Explored
 
 Different representations of molecular sequences.
 The effect of fine-tuning on unseen chemical space.
