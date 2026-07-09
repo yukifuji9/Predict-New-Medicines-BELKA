@@ -3,7 +3,7 @@
 
 Kaggle Competition: Public LB Top 8%, Private LB Top 12%
 
-##The Research Question
+## The Research Question
 
 The competition evaluated not only predictive performance but also a model's ability to generalize beyond the distribution represented in the training data. The hidden evaluation introduced entirely new molecular building blocks, making this a study of robustness under distribution shift rather than benchmark optimization.
 
